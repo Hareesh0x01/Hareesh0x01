@@ -1,0 +1,27 @@
+name: github-contribution-grid-snake
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs every day at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate Contribution Snake
+        uses: platane/snk@v1
+        with:
+          username: hareesh0x01
+          color: 'radical'
+          background: '00000000'
+
+      - name: Commit Snake
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Update snake contribution"
+          git push
