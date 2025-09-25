@@ -9,7 +9,10 @@
 - 📫 Reach me at: **harishkumar515152@gmail.com**  
 - ⚡ Fun fact: *Always curious, always experimenting!*  
 
----
+</div>
+
+
+</div align="center">
 
 ### 🌐 Connect with Me  
 <p align="left">
@@ -18,7 +21,14 @@
   <a href="https://linkedin.com" target="https://www.linkedin.com/in/harishkumar-juniorcyber"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
+</div>
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hareesh0x01/hareesh0x01/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+
+</div align="center">
 
 ### 🛠️ Languages & Tools  
 <p align="left">
