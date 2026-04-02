@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me  
 - 🌱 Currently learning **🛠️ Ethical Hacking & Penetration Testing**  
 - 🎯 Goal: To build **secure and user-friendly applications**  
-- 📫 Reach me at: **harishkumar515152@gmail.com**  
+- 📫 Reach me at: **work.hareeshkumar@yahoo.com**  
 - ⚡ Fun fact: *Always curious, always experimenting!*  
 
 
